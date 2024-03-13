@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 430vmin;
   pointer-events: none;
 }
 
@@ -28,11 +28,35 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+/* App.css */
+section {
+  background-size: cover;
+  background-position: center;
+}
+
+/* App.css */
+.section {
+  background-size: cover;
+  background-position: center;
+}
+
+.section1 {
+  background-image: url('/public/images/ColoredFur.jpg');
+}
+
+.section2 {
+  /* background-image: url(path_to_image2); */
+}
+
+.section3 {
+  /* background-image: url(path_to_image3); */
+}
+
+.section4 {
+  /* background-image: url(path_to_image4); */
+}
+
+.section5 {
+  /* background-image: url(path_to_image5); */
 }

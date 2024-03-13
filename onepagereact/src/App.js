@@ -9,7 +9,7 @@ const App = () => {
     <div className="App">
       <Navigation />
       <section id="section1" className="section vh-100 d-flex align-items-center justify-content-center section1">
-        <h1>Section 1</h1>
+        <h1 className='section_1-title unselectable'>The best solution for creating charts!</h1>
       </section>
       <section id="section2" className="section vh-100 d-flex align-items-center justify-content-center section2">
         <h1>Section 2</h1>
